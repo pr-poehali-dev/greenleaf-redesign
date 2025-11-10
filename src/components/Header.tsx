@@ -31,7 +31,7 @@ const Header = () => {
       }`}
     >
       <div className="container mx-auto px-4">
-        <div className="flex justify-between items-center">
+        <div className="flex justify-between items-center my-0 mx-0.5 px-1 bg-transparent">
           <a href="#" className="flex items-center gap-2 text-2xl font-bold text-primary">
             <Icon name="Leaf" size={28} className="text-primary" />
             <span>Green<span className="text-secondary">leaf</span></span>
